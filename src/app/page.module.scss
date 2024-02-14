@@ -1,0 +1,23 @@
+.home {
+    p {
+        font-size: 1.5rem;
+        font-weight: 500;
+        margin: 15px 0;
+        color: #383838;
+    }
+
+    li {
+        margin: 10px;
+
+        a {
+            text-decoration: none;
+            color: #000000;
+            font-size: 1rem;
+            font-weight: 500;
+
+            &:hover {
+                color: #000000c7;
+            }
+        }
+    }
+}
