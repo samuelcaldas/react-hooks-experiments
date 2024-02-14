@@ -17,12 +17,17 @@ export default function Home() {
           </li>
           <li>
             <Link href="/pages/useEffectSample">
-              Exemplo de uso de useEffect para carregar dados de uma API de clima.
+              Exemplo de uso de useEffect para restaurar a cor de fundo da página.
             </Link>
           </li>
           <li>
             <Link href="/pages/useContextSample">
               Exemplo de uso de useContext para trocar a cor de fundo da página.
+            </Link>
+          </li>
+          <li>
+            <Link href="/pages/useSWRSample">
+              Exemplo de uso de useSWR para carregar dados de uma API de clima.
             </Link>
           </li>
         </ul>
